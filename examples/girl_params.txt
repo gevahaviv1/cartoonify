@@ -1,0 +1,5 @@
+max_im_size = 460
+blur_size = 3
+th_block_size = 5
+th_c = 9
+quant_num_shades = 10
